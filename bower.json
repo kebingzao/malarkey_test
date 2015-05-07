@@ -1,0 +1,8 @@
+{
+  "name": "kebingzao",
+  "version": "0.0.1",
+  "dependencies": {
+    "malarkey": "yuanqing/malarkey#~1.2.0"
+  },
+  "devDependencies": {}
+}
